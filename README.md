@@ -67,6 +67,8 @@ With a **local radio**, Home Assistant talks to your heaters **directly**. Nothi
 
 ![Condensed view with 2, 3 and 4 heaters](esphome/cores3-se/overview-preview.png)
 
+<img width="297" height="400" alt="Screenshot 2026-10-24 at 14 09 54" src="https://github.com/user-attachments/assets/92a5faa5-de15-4fd4-968a-623f527c7371" />
+
 Prices checked on 2026-10-11 at European shops. They change. The guides list shops and current prices.
 
 **Which one should I pick?**
